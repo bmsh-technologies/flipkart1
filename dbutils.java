@@ -1,2 +1,2 @@
-hi....Hello
+Hello
 this is my first file
